@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps(Naveen  by using attomatic trigger Anna) Learning</h1>
+    <h1>New user Register for DevOps(Thanks sir for nice explanation) Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
